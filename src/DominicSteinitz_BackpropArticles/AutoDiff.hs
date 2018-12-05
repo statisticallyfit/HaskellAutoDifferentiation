@@ -1,9 +1,9 @@
 {-# LANGUAGE NoMonomorphismRestriction #-}
 
-module AutoDiff(Dual(..), f, idDual) where
+module DominicSteinitz_BackpropArticles.AutoDiff(Dual(..), idDual, constDual) where
 default()
 
-data Dual = Dual Double Double deriving (Eq, Show)
+data Dual = Dual Double Double deriving (Eq, Show )
 
 
 -- Declaring helper functions

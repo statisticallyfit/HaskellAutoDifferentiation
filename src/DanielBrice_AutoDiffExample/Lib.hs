@@ -1,4 +1,4 @@
-module Lib
+module DanielBrice_AutoDiffExample.Lib
     ( someFunc
     ) where
 

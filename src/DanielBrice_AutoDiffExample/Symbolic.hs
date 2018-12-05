@@ -1,4 +1,4 @@
-module Symbolic where
+module DanielBrice_AutoDiffExample.Symbolic where
 -- Adapted from http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html
 
 import AutoDiff

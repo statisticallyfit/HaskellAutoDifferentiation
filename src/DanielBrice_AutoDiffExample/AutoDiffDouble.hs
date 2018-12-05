@@ -1,4 +1,4 @@
-module AutoDiffDouble where
+module DanielBrice_AutoDiffExample.AutoDiffDouble where
 
 -- AutoDiff.hs
 -- Copyright 2015, Daniel Brice

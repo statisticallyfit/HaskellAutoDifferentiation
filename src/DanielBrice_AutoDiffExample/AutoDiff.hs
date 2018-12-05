@@ -1,4 +1,4 @@
-module AutoDiff where
+module DanielBrice_AutoDiffExample.AutoDiff where
 
 
 -- by Daniel Brice

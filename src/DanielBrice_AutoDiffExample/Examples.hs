@@ -1,4 +1,4 @@
-module Examples where
+module DanielBrice_AutoDiffExample.Examples where
 
 import AutoDiff
 
